@@ -1,2 +1,2 @@
 # trillo
-Mastering the fundaments for CSS Flexbox
+Mastering the fundamentals for CSS Flexbox
